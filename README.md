@@ -1,4 +1,4 @@
-1. Go to retroarch settings > network > network commands > on, tell windows it's ok for it to access network if windows asks
+1. Go to retroarch settings > network > network commands > on (if you don't see such an option either update retroarch or put `network_cmd_enable = "true"` in retroarch.cfg), tell windows it's ok for it to access network if windows asks
 2. Download the latest QUsb2Snes .7z release from https://github.com/usb2snes/usb2snes/releases
 3. Extract, put the file into QUsb2Snes\Magic2Snes\examples
 4. Run retroarch, run QUsb2Snes.exe, tell windows it's okay for it to use network, if it asks for an update update it
